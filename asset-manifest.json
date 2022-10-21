@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b88fa15b.css",
-    "main.js": "/static/js/main.6738e4f6.js",
+    "main.js": "/static/js/main.3f088b74.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/register-premint-raffles.png": "/static/media/register-premint-raffles.a21c8bd6ebc2c332534b.png",
     "static/media/link-filter.png": "/static/media/link-filter.f7e80732bf421c683255.png",
@@ -10,11 +10,11 @@
     "static/media/logo_black.svg": "/static/media/logo_black.cd83957217ab36b28582a784327908b1.svg",
     "index.html": "/index.html",
     "main.b88fa15b.css.map": "/static/css/main.b88fa15b.css.map",
-    "main.6738e4f6.js.map": "/static/js/main.6738e4f6.js.map",
+    "main.3f088b74.js.map": "/static/js/main.3f088b74.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b88fa15b.css",
-    "static/js/main.6738e4f6.js"
+    "static/js/main.3f088b74.js"
   ]
 }
